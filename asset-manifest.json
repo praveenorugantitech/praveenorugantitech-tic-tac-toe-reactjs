@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/praveenorugantitech-tic-tac-toe-reactjs/static/js/main.981ec452.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-tic-tac-toe-reactjs/static/js/runtime-main.2fa8d691.js",
+    "static/js/2.30741f71.chunk.js": "/praveenorugantitech-tic-tac-toe-reactjs/static/js/2.30741f71.chunk.js",
+    "index.html": "/praveenorugantitech-tic-tac-toe-reactjs/index.html",
+    "precache-manifest.021c5ec83a30654975cf98a0ab203d69.js": "/praveenorugantitech-tic-tac-toe-reactjs/precache-manifest.021c5ec83a30654975cf98a0ab203d69.js",
+    "service-worker.js": "/praveenorugantitech-tic-tac-toe-reactjs/service-worker.js",
+    "static/js/2.30741f71.chunk.js.LICENSE.txt": "/praveenorugantitech-tic-tac-toe-reactjs/static/js/2.30741f71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fa8d691.js",
+    "static/js/2.30741f71.chunk.js",
+    "static/js/main.981ec452.chunk.js"
+  ]
+}
