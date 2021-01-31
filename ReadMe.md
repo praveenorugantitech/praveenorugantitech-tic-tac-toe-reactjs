@@ -7,7 +7,7 @@
 
 ### Live Demo
 
-[https://praveenorugantitech.github.io/praveenorugantitech-memory-reactjs/](https://praveenorugantitech.github.io/praveenorugantitech-tic-tac-toe-reactjs/)
+[https://praveenorugantitech.github.io/praveenorugantitech-tic-tac-toe-reactjs/](https://praveenorugantitech.github.io/praveenorugantitech-tic-tac-toe-reactjs/)
 
 
 ### Setup Local Instructions
